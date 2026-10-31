@@ -17,3 +17,5 @@ También se pueden iniciar por separado con `npm run dev:frontend` y `npm run de
 
 
 La ruta `/api/health` solo verifica que la API esté activa;
+
+
